@@ -1,4 +1,4 @@
-let url = '../docs/resume.pdf';
+let url = '../docs/sample.pdf';
 
 let pdfDoc = null,
     pageNum = 1,
